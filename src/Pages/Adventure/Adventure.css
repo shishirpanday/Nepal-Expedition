@@ -1,0 +1,9 @@
+.adventure{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 200px;
+    gap: 5rem;
+
+}

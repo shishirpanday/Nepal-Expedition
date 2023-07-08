@@ -1,0 +1,21 @@
+.get-call{
+    position: fixed;
+    top: 90px;
+    right: 0;
+  }
+  .get-call i{
+    font-size: 30px;
+    color: rgb(255, 0, 0);
+  }
+  .get-call h3{
+    color: white;
+  }
+  .get-callbox{
+    padding-top:20px ;
+    height: 100px;
+    width: 100px;
+    background-color: rgba(66, 87, 108, 0.9) ;
+    border: 2px solid white;
+    border-radius: 15px;
+    text-align: center;
+  }

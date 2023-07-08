@@ -1,0 +1,31 @@
+.activities{
+    height: 400px;
+    width: 400px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    padding: 10px;
+}
+.activities h1{
+    color: rgb(0, 0, 0);
+    padding: 10px;
+}
+.activities img{
+    height: 67%;
+    width: 100%;
+    border: 2px solid white;
+    border-radius: 15px;
+    /* margin: 5px; */
+}
+.callback{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    /* color: white; */
+}
+.callback button {
+    width: 50%;
+    height: fit-content;
+    border: 2px solid rgb(29, 94, 112);
+    border-radius: 190px;
+    /* color: white; */
+}

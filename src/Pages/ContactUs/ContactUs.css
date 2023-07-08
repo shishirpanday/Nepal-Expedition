@@ -1,0 +1,81 @@
+.hardwork {
+    font-size: 59px;
+    margin-bottom: 17px;
+    color: #ffffff;
+}
+.features {
+    color: #ffffff;
+    font-size: 35px;
+  }
+.contact-us1 {
+    padding: 30px;
+    border: 2px solid white;
+    border-radius: 25px;
+    margin: 250px 150px 10px 200px ;
+    background-color: rgba(66, 87, 108, 0.9);
+}
+.contact-us {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.information{
+    border: 2px solid rgb(200,185,185);
+    margin-top: 30px;
+    border-radius: 15px;
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+}
+.information .address {
+    display: flex;
+    flex-direction: row;
+  }
+  .information .home {
+    font-size: 40px;
+    padding-top: 20px;
+  }
+  .information .addd {
+    margin-left: 50px;
+  }
+  .information .addr {
+    font-size: 30px;
+    color: rgb(63, 74, 123);
+  }
+  .information .south {
+    font-size: 18px;
+    color: grey;
+    margin-top: 20px;
+  }
+  .information .phoneno {
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+  }
+  .information .email {
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+  }
+  .information .envelope {
+    font-size: 40px;
+    margin-top: 30px;
+  }
+  .map {
+    margin: 50px 10px 20px 5px;
+    border: 2px solid rgb(255, 255, 255);
+    padding: 5px;
+    /* width: 100%; */
+    height: fit-content;
+    overflow: hidden;
+    text-align: center;
+    font-size: 40px;
+    border-radius: 15px;
+    color: rgb(201, 255, 5);
+    /* margin: 250px 150px 10px 200px ; */
+    background-color: rgb(66, 87, 108);
+  }
+  .map h1 {
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }

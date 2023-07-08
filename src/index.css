@@ -1,0 +1,15 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth 0.50s;
+    list-style: none;
+    text-decoration: none;
+  }
+  body{
+    background-image: url('../public/Assets/b.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-position: center; */
+  }

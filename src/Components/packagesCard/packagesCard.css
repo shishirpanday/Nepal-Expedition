@@ -1,0 +1,71 @@
+.sixbox {
+    /* margin: 20px  50px; */
+    height: 550px;
+    width: 400px;
+    padding: 10px;
+    background-color: #fff;
+    align-items: center;
+    border-radius: 10px;
+  }
+  .sixbox h2 {
+    padding: 10px;
+  }
+  .image1 img{
+    width: 100%;
+    height: 220px;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 15px;
+    animation: zoomInOut 7s linear infinite;
+  }
+  @keyframes zoomInOut{
+    0%,100%{
+      transform: scale(1);
+    }
+    70%{
+      transform: scale(0.9);
+    }
+  }
+  .nights{
+    padding: 10px;
+    text-align: center;
+    
+  }
+  .nights span{
+    color: rgb(28, 191, 191);
+  }
+  .dur{
+    display: flex;
+    justify-content: end;
+    padding-right: 10px;
+  }
+  .duration{
+    width: fit-content;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 25px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(25, 236, 172);
+  }
+  .price {
+    display: flex;
+    /* justify-content: center; */
+    flex-wrap: wrap;
+    align-items: end;
+    flex-direction: column;
+    padding: 10px;
+  }
+  .booking {
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: center;
+    /* margin: 10px; */
+    /* padding: 10px; */
+  
+  }
+  .booking button {
+    width: fit-content;
+    height: fit-content;
+    border: 2px solid rgb(29, 94, 112);
+    border-radius: 190px;
+  }
+  
