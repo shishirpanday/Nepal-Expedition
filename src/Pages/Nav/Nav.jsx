@@ -24,6 +24,7 @@ const Nav = () => {
         <li><Link to='/packages'>Packages</Link></li>
         <li><Link to="/adventure">Adventure Activities</Link></li>
         <li><Link to='/aboutus'>About Us</Link></li>
+        <li><Link to='/aboutus'>About Us</Link></li>
         <li><Link to='/share-experience'>Share Experience</Link></li>
         <li><Link to='#'>News</Link></li>
         <li><Link to='/Contactus'>Contact</Link></li>
